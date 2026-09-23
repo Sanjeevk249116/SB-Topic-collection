@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SB-Topic-collection.iml" filepath="$PROJECT_DIR$/.idea/SB-Topic-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaFirst/javaFirst.iml" filepath="$PROJECT_DIR$/javaFirst/javaFirst.iml" />
     </modules>
   </component>
 </project>
